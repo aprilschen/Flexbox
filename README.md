@@ -4,7 +4,7 @@ testCases.txt contains sample test cases which I used to debug the main program.
 flexbox.cpp contains the actual program itself. I debugged and compiled it in gcc 7.5.0, along with the bits.stdc header.
 
 ## Inspiration
-This project was actually inspired by some USACO problems which I had recently practicing! I decided to create a project about graphs, and connectivity because I thought that it would be an interesting project which would highlight my technical strengths as a competitive programmer.
+This project was actually inspired by USACO problems which I had recently practicing. I decided to create a project about graphs, and connectivity since maps/graphs-related problems had always interested me.
 
 ## What it does
 Flexbox receives basic topographic information about a given area and returns unique insights on its Urban Design. It uses the Union Find data structure, as well as Dijkstra's and Kruskal's algorithms to compute connectivity, shortest paths and the minimum spanning tree. The program contains 4 main functions:
@@ -20,11 +20,6 @@ I began by building and debugging the input system. Afterwards, I moved onto the
 I'm proud of getting through my first hackathon, and making many friends and acquaintances along the way! I'm also proud of actually putting out my first project, which I managed to complete solo. Going into this Hackathon, I had thought that I needed a team to succeed and that I lacked the skills to put out a successful project by myself.
 
 ## What we learned
-I learned two things from this first hackathon experience:
-1) I should diversity my technical skillset. My knowledge of web development, and especially full-stack work is weak compared to the top competitors at this Hackathon. In particular, I will need to learn how to connect Front-end UI and UX to back-end systems. In the future, I plan on learning React, and Node js / Express to diversity my skillset. I also plan on learning a couple useful API's to add more available tools which I can work with.
+1) My knowledge of everything besides algorithms is weak. In particular, I will need to learn how to connect Front-end UI and UX to back-end systems. In the future, I plan on learning React, and Node js / Express to diversity my skillset. I also plan on learning a couple useful API's to add more available tools which I can work with.
 
 2) Next time I enter a hackathon, I will definitely plan on bringing friends and team partners! Team matching can be a pain, especially if most other already have a team and set plan. Hacking solo also limits the amount of work that I can get done, as I only have so much focus and time. If I had another two or three partners, I would definitely be able to push out a much more fleshed out, polished product.
-
-## What's next for Flexbox: Rapid Prototyping Application for Urban Planning
-I plan on developing a website, and front-end for this program, using node js to plug in my c++ file to the site. This will probably occur within the next week or so, depending on available free time, motivation, etc.
-Thanks for reading!
